@@ -1,7 +1,6 @@
 # 🛠️ Linux-HW-Troubleshooting-Toolkit
 
 Mini toolkit Linux pour diagnostiquer des pannes matérielles rapidement via des scripts Bash.  
-Conçu dans le cadre d’une alternance orientée support technique HPC chez Eviden.
 
 ---
 
